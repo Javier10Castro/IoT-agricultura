@@ -631,8 +631,7 @@ handle/10654/17682/GonzalezBoteroDavidFelipe2018.pdf;jsessionid=E80C4CB51B1ABED6
 * <b>[43]</b> A. Cama-Pinto, F. Montoya Gil, J. Gómez-López, 
 A. García Cruz, y F. Manzano Agugliaro, “Sistema 
 inalámbrico de monitorización para cultivos en 
-invernadero”, DYNA, vol. 81, no. 184, pp. 164-170, 
-1.    doi: 10.15446/dyna.v81n184.37034
+invernadero”, DYNA, vol. 81, no. 184, pp. 164-170, 1.    doi: 10.15446/dyna.v81n184.37034
 * <b>[44]</b> T. Cao-Hoang, and C. N. Duy, “Environment monitoring system for agricultural application based 
 on wireless sensor network”, in 7th International 
 Conference on Information Science and Technology, ICIST 2017–Proceedings, 2017. doi: 10.1109/
