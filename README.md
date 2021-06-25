@@ -11,4 +11,4 @@ de selección puntualizados, respondiendo preguntas específicas de investigaci�
 dos factores relevantes: en primer lugar, se identificaron las tecnologías de IoT aplicadas en agricultura divididas en capa 
 de percepción y capa de red; por otra parte, se hizo énfasis en la búsqueda de desarrollos aplicados en América Latina, con 
 especial cuidado en Colombia, para establecer la influencia de este tipo de tecnologías en la región. Finalmente, este trabajo 
-pretende dar un panorama para futuras investigaciones, estableciendo los dispositivos y las tecnologías de IoT más recurrentes aplicadas en agricultura.
+pretende dar un panorama para futuras investigaciones, estableciendo los dispositivos y las tecnologías de IoT más recurrentes aplicadas en agricultura.
